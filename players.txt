@@ -1,0 +1,49 @@
+5billon,800,Jungle
+Aimishi,600,Jungle
+Amews,800,Support
+Brayden xo,300,Jungle
+Chucksuccs,300,Adc
+Classiq,800,Fill
+Cleenslate,400,Mid
+Commandress,800,mid
+Drzoan,700,Support
+Evelynn Toes,600,Jungle
+Feenz,400,Adc
+Flames,500,Support
+Gabyumi,300,Support
+Gourish,900,Mid
+GumGumBlast,200,Adc
+Hunyah,700,Jungle
+I SETT YOU UP,600,Top
+Kingneptun3,300,Top
+Kyupo,200,Support
+Limi,600,Mid
+Maa San,500,Support
+MeowMix,800,Jungle
+Meyst,500,Fill
+Mnesia,500,Jungle
+Nappy,900,Top
+Nasir,800,Fill
+NotJustPlatonic,700,Fill
+Oogli,700,Mid
+Ramza,800,Fill
+Rogier,700,Support
+Sehnbon,500,Top
+Settupss,700,Support
+Shrektangle,900,Fill
+Silva b,200,Support
+Silvia,500,Top
+Sir Mighty Bacon,800,Mid
+SkrtSkrt,400,Support
+Slimelvl1,600,Support
+Smoking Hookah,600,Fill
+Stephy,500,Support
+StringHasWings,500,Mid
+Tiny Cena,300,Support
+Tsaritsa,300,Support
+Untuchable7,400,Adc
+Vroom,600,Top
+Wallaby,700,Mid
+Wazzaii,400,Adc
+Z3Sleeper,800,Top
+Zotto,900,Jungle
